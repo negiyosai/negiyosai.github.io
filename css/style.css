@@ -381,7 +381,7 @@ label {
 	opacity:0;
 	top:0;
 }
-.portfolio-wrapper:hover .portfolio-img >a:before{opacity:.40;}
+.portfolio-wrapper:hover .portfolio-img >a:before{opacity:.60;}
 .portfolio-img a{width:100%;}
 .portfolio-img a img {
 	width: 100%;
@@ -414,7 +414,7 @@ label {
 	right: 0;
 	transition:.3s;
 }
-.portfolio-wrapper:hover .portfolio-content{opacity:1;bottom:30px;}
+.portfolio-wrapper:hover .portfolio-content{opacity:1;bottom:20px;}
 .portfolio-content h4 {
 	font-size: 16px;
 	font-weight: 600;
@@ -422,12 +422,12 @@ label {
 	text-transform: uppercase;
 }
 .portfolio-content h4 > a{color:#fff;transition:.3s;}
-.portfolio-content h4 > a:hover{color:#000;}
+.portfolio-content h4 > a:hover{color:#00BFFF;}
 .portfolio-content span {
 	color: #fff;
-	font-size: 12px;
+	font-size: 14px;
 	font-weight: 400;
-	text-transform: uppercase;
+	text-transform: none;
 }
 /* footer */
 .footer-area{
